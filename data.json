@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Priyanshu",
+        "age": 23,
+        "email": "pks@gmail.com",
+        "pin": 1100,
+        "accountNo": "1234",
+        "balance": 0
+    },
+    {
+        "name": "Harsh Patel",
+        "age": 24,
+        "email": "hasrh@gmail.com",
+        "pin": 1342,
+        "accountNo": "KK6V1#2",
+        "balance": 1000
+    },
+    {
+        "name": "Mukesh Kumar",
+        "age": 23,
+        "email": "mukesh@gmail.com",
+        "pin": "1111",
+        "accountNo": "MIWN60A1",
+        "balance": 4000
+    }
+]
